@@ -1,6 +1,6 @@
 ---
-name: "weekly-recap"
-description: "Creates a weekly GitHub Discussions recap of items closed in this repo over the last 7 days."
+name: weekly-recap
+description: Creates a weekly GitHub Discussions recap of items closed in this repo over the last 7 days.
 tools: ['*']
 ---
 
